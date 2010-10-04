@@ -1,0 +1,1 @@
+/home/wyatt/lovepy/cday [] ['pycdc.py', 'version', 'mycdc.cdc']
