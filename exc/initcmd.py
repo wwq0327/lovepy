@@ -2,22 +2,44 @@
 #coding:utf-8
 '''
 本程意在自动化完成一些linux安装方面的命令。
+用于安装的命令集合，在连接时可从终中下载。
 '''
+import sys
 import os
 
 #判断是否为Windows系统操作系统，如果是的话，则退出。
 if os.name == 'nt':
     print '对不起，本程序只能在linux系统上运行，程序正在退出...'
-    exit(0)
+    sys.exit(0)
 else:
     print "你当前使用的是 %s 操作系统，能使用本程序."%os.name
-
+    
 def cmdUsage():
     '''
     程序的使用方法：
+    python initcmd.py [-command]
+
+    command:
+
+    -h : 显示帮助。
+    -d : 从网络中下载操作命令行。
+    -p : 将命令行提交到作者邮箱。
     '''
     pass
 
+def downcmdfile():
+    '''
+    从网站下载新的安装命令文件
+    '''
+    pass
+
+def postcmdline():
+    '''
+    提交新的命令于，接收对象为作者邮箱。
+
+    '''
+    pass
+    
 def cmdRun(cmd):
     '''
     运行操作命令符
@@ -36,6 +58,7 @@ def oschose():
     fedora:yum 方式安装
     '''
     pass
+
 def main():
     cmdresult = []
     cmdfile = open('command.conf','r')
