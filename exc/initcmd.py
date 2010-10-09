@@ -40,11 +40,11 @@ def postcmdline():
     '''
     pass
     
-def cmdRun(cmd):
-    '''
-    运行操作命令符
-    '''
-    os.system(cmd)
+#def cmdRun(cmd):
+#    '''
+#    运行操作命令符
+#   '''
+#    os.system(cmd)
 
 def cmdlog():
     '''将操作记录写入当前目录文件中。
@@ -74,7 +74,8 @@ def main():
         |
         +============================＝===================
         '''%cmdline
-        cmdRun(cmdline)
+        #cmdRun(cmdline)
+        os.system(cmdline)
     #continue
     cmdresult.append(cmdline)
 
