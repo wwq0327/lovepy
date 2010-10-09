@@ -31,12 +31,13 @@ def downcmdfile():
     '''
     从网站下载新的安装命令文件
     '''
-    pass
+    os.system('wget http://gopython.googlecode.com/files/cmds.tar.gz')
+    os.system('tar -zxvf cmds.tar.gz')
 
 def postcmdline():
     '''
     提交新的命令于，接收对象为作者邮箱。
-
+    @TODO
     '''
     pass
     
@@ -59,9 +60,26 @@ def oschose():
     '''
     pass
 
-def main():
+def slupdate(oschose):
+    '''根据所选的不同系统，作相应的更新操作,暂时只支持ubuntu和fedora'''
+    if oschose == 'ubuntu':
+        os.system('wget http://gopython.googlecode.com/files/sources.list')
+        os.system('sudo mv /etc/apt/sources.list /etc/apt/sources.list.bak') 
+        os.system('sudo cp sources.list /etc/apt/')
+        os.system('sudo apt-get update')
+    elif oschose == 'fedora':
+        os.system('wget http://mirrors.163.com/.help/fedora-163.repo')
+
+        os.system('wget http://mirrors.163.com/.help/fedora-updates-163.repo')
+        os.system("su -c 'cp *.repo /etc/yum.repos.d/'")
+        os.system("su -c 'yum makecache'")
+        
+    else:
+        print '对不起，本程序暂时不支持ubuntu和fedora以外的系统。'
+
+def runcmd(cmdfile):
     cmdresult = []
-    cmdfile = open('command.conf','r')
+    cmdfile = open(cmdfile,'r')
     for cmdline in cmdfile.readlines():
         cmdline = cmdline.strip()
         if not len(cmdline) or cmdline.startswith('#'):
@@ -80,6 +98,9 @@ def main():
     cmdresult.append(cmdline)
 
 #open('cmd.log','w').write('%s'%'\n'.join(cmdresult))
+
+def main():
+    runcmd('command.conf')
 
 if __name__ == '__main__':
     main()
