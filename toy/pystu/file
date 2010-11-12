@@ -1,0 +1,26 @@
+About Django
+
+What does “Django” mean, and how do you pronounce it?
+
+Django is named after Django Reinhardt, a gypsy jazz guitarist from the 1930s to early 1950s. To this day, he’s considered one of the best guitarists of all time.
+
+Listen to his music. You’ll like it.
+
+Django is pronounced *JANG-oh. Rhymes with FANG-oh*. The “D” is silent.We’ve also recorded an audio clip of the pronunciation.
+
+Is Django stable?
+
+  - test1 (http://g.cn)
+  - test2 (http://sb.com)
+  - test3 (http://ha.net)
+
+Yes. World Online has been using *Django* for more than three years. Sites built on Django have weathered traffic spikes of over one million hits an hour and a number of Slashdottings. Yes, it’s quite stable.
+
+Does Django scale?
+
+Yes. Compared to development time, hardware is cheap, and so Django is designed to take advantage of as much hardware as you can throw at it.
+
+Django uses a “shared-nothing” architecture, which means you can add hardware at any level – *database* servers, caching servers or Web/application servers.
+
+The framework cleanly separates components such as its database layer and application layer. And it ships with a simple-yet-powerful cache *framework*.
+
