@@ -1,0 +1,26 @@
+#!/usr/bin/env python
+#coding:utf-8
+
+import sys
+import os
+
+def index(directory):
+    stack = [directory]
+    files = []
+    while stack:
+        directory = stack.pop()
+        for file in os.listdir(directory):
+            fullname = os.path.join(directory, file)
+            files.append(fullname)
+            if os.path.isdir(fullname) and not os.path.islink(fullname):
+                stack.append(fullname)
+    return files
+
+def delfile(dir):
+    for file in index(dir):
+        print file
+        type(file)
+
+
+if __name__ == '__main__':
+    delfile('.')
