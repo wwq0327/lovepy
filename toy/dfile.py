@@ -28,8 +28,9 @@ def delfile(dir):
     '''
     删除相应文件的操作。
     '''
+    delfile = []
     for file in index(dir):
-        delfile = []
+        
         if os.path.splitext(file)[1] == '.py~':
             delfile.append(file)
             print '搜索到当前目录中含有.py~文件如：\n----------------------'
@@ -40,7 +41,7 @@ def delfile(dir):
                 print '操作结束，没有删除任何文件，程序将退出...'
                 sys.exit(1)
             else:
-                os.remove(filename)
+                #os.remove(filename)
                 print '.py~ 文件已删除，程序就此退出！'
         else:
             print '真是太幸运了，程序末发现你当前目录中存在.py~文件,程序已自动退出'
@@ -61,4 +62,4 @@ if __name__ == '__main__':
     Usage(argv)
     #print sys.argv
     print '当前工作目录是 %s' % dir
-    delfile(dir)
+    delfile('.')
