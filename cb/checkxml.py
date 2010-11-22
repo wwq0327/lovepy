@@ -1,7 +1,11 @@
+#!/usr/bin/env python
+#coding:utf-8
+
 from xml.sax.handler import ContentHandler
 from xml.sax import make_parser
 from glob import glob
 import sys
+
 def parsefile(filename):
     parser = make_parser()
     parser.setContentHandler(ContentHandler())
