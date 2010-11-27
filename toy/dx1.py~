@@ -1,0 +1,11 @@
+#coding:utf-8
+
+class C1:
+    def __init__(self, name):
+        self.name = name
+        pc()
+
+    def pc(self):
+        print self.name
+
+p=C1('wyatt')

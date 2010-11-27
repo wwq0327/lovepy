@@ -25,3 +25,5 @@ for i in range(1000):
    term.paste_clipboard()
 
 gtk.main()
+'''
+'''
