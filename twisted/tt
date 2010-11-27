@@ -1,0 +1,2305 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><!-- sc/2108 -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!-- #sc/2108 -->
+
+<META name="verify-v1" content="abK30/O5baixwH0IC3Oclk1/zLsPjzlr1htTrzEYLuU=" />
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+<title>O'Reilly Media - Technology Books, Tech Conferences, IT Courses, News</title>
+
+<meta name="keywords" content="O'Reilly, oreilly, technology books, technology conferences, IT training courses, tech news" />
+
+<meta name="description" content="O'Reilly spreads the knowledge of innovators through technology books, online services, and tech conferences. Find the technology resources you need at O'Reilly Media, a technology company at the leading edge." />
+
+<!-- common javascript, css and hitbox was sc/1820-->
+<link rel="stylesheet" rev="stylesheet" href="http://oreilly.com/styles/all.css" type="text/css"/>
+
+<script language="JavaScript" type="text/javascript" src="http://www.oreillynet.com/engine.js"></script>
+
+
+<script language="JavaScript" type="text/javascript" src="http://content.atomz.com/pb000035c5/publish/assets/js/common.js"></script>
+
+<!--
+<script language="JavaScript" type="text/javascript" src="http://www.oreillynet.com/common.js"></script>
+-->
+
+<script type="text/javascript" src="http://content.atomz.com/static/ac/1.0/autocomplete.js"></script>
+<link rel="stylesheet" type="text/css" href="http://content.atomz.com/pb000035c5/publish/autocompletestyles.css" />
+
+
+<!-- path_info: /oreilly/index.csp -->
+<!-- table: oreilly - ref_id: index.csp -->
+<!-- table: oreilly - ref_id: oreilly/index.csp -->
+<!-- table: csp - ref_id: /oreilly/index.csp - cs_rid: 92 -->
+<!-- 0 domain: www.oreillynet.com - path_info: oreilly/index.csp -->
+<!-- 1 domain: www.oreillynet.com - path_info: oreilly/index.csp -->
+<!-- 2 domain: www.oreillynet.com - path_info: oreilly/index.csp -->
+<!-- 3 domain: www.oreillynet.com - path_info: oreilly/index.csp -->
+<!-- 4 domain: oreillynet.com - path_info: oreilly/index.csp -->
+<!-- 5 domain: oreillynet - path_info: oreilly/index.csp -->
+<!-- 6 domain: oreillynet - path_info: oreilly/index.csp s_channel: oreilly -->
+<!-- 7 domain: oreillynet - path_info: oreilly/index.csp -->
+<!-- 8 domain: www.oreillynet.com - path_info: oreilly/index.csp -->
+
+<script language="JavaScript" type="text/javascript"><!--
+var s_account="ororeilly,orglobal"
+//--></script>
+<!-- SiteCatalyst code version: H.20.2. Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com  -->
+<script language="JavaScript" type="text/javascript" src="http://assets.oreilly.com/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName="oreilly:oreilly:oreilly.com home page"
+s.channel="oreilly"
+s.prop1="oreilly:oreilly"
+s.prop2="oreilly:oreilly"
+s.prop3="oreilly:oreilly"
+s.prop4=""
+s.prop5="oreilly.com home page"
+s.prop6="n/csp/92"
+s.prop24="09/23/2009"
+s.prop21=""
+s.hier1="oreilly,oreilly"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.20.2. -->
+<!-- analytics.pl: 2010/11/26 3:22:24 -->
+
+
+
+
+<link rel="stylesheet" rev="stylesheet" href="http://oreilly.com/styles/home2.css?1" />
+
+<link rel="stylesheet" type="text/css" href="http://oreilly.com/styles/chrome.css" />
+
+<!-- Satisfaction CSS -->
+<style type="text/css" media="all">  
+  div#gsfn_list_widget img { border: none; }
+  div#gsfn_list_widget { font-size: 12px; }
+  div#gsfn_list_widget h3 { line-height: 1.2; background-color: #CCC; padding-top: 5px; padding-bottom: 5px; }
+  div#gsfn_list_widget h3 a.widget_title { color: #000!important; display: block; font-weight: bold; }
+  div#gsfn_list_widget .powered_by { margin-top: 8px; padding-top: 8px; border-top: 1px solid #DDD; }
+  div#gsfn_list_widget .powered_by a { color: #333; font-size: 90%; }
+  div#gsfn_list_widget div#gsfn_content { }
+  div#gsfn_list_widget div#gsfn_content li { text-align:left; margin-bottom:6px; }
+  div#gsfn_list_widget div#gsfn_content a.gsfn_link { line-height: 1; }
+  div#gsfn_list_widget div#gsfn_content span.time { font-size: 90%; padding-left: 3px; }
+  div#gsfn_list_widget div#gsfn_content p.gsfn_summary { margin-top: 2px }
+</style>
+<!-- End Satisfaction CSS -->
+
+
+<!-- iphone icon -->
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" type="image/png" />
+
+<!-- Google Analytics -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-4591498-1";
+urchinTracker();
+</script>
+
+<!-- feed autodiscovery links -->
+
+<link rel="alternate" type="application/atom+xml" title="News &amp; Commentary Feed" href="http://feeds.feedburner.com/oreilly/news" />
+
+<link rel="alternate" type="application/atom+xml" title="New Titles Feed" href="http://feeds.feedburner.com/oreilly/newbooks" />
+
+<link rel="alternate" type="application/atom+xml" title="Upcoming Titles Feed" href="http://feeds.feedburner.com/oreilly/upcomingbooks" />
+
+
+
+<!-- MyBuys libraries and style sheet -->
+<link href="http://t.p.mybuys.com/css/mbstyles.css" type="text/css" rel="stylesheet" id="mybuysstyles" />
+<script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js"></script>
+<script type="text/javascript" src="http://t.p.mybuys.com/clients/OREILLY/js/setup.js"></script>
+<!-- End MyBuys libraries and style sheet -->
+
+</head>
+<body onload="setMenu();" id="home">
+	<!-- html generated by csp2html.pl -->
+
+
+<div id="page">
+
+<div id="header-09">
+<div id="navbar">	
+<ul id="nav">
+<li class="selected" id="home"><a href="http://oreilly.com" accesskey="h">Home</a>
+<ul>
+<li><a href="http://oreilly.com/community/">Community</a></li>
+<li><a href="http://oreilly.com/events/">Events</a></li>
+<li><a href="http://oreilly.com/webcasts/">Webcasts</a></li>
+<li><a href="http://elists.oreilly.com/">Newsletters</a></li>
+</ul></li>
+<li><a href="http://oreilly.com/store/index.html">Shop</a>
+<ul>
+<li><a href="http://oreilly.com/store/newreleases.html">New</a></li>
+<li><a href="http://oreilly.com/store/upcoming.html">Upcoming</a></li>
+<li><a href="http://oreilly.com/store/bestsellers.html">Bestselling</a></li>
+<li><a href="http://oreilly.com/store/complete.html">Complete List</a></li>
+<li><a href="http://oreilly.com/store/publisher.html">By Publisher</a></li>
+<li><a href="http://oreilly.com/roughcuts/">Rough Cuts</a></li>
+<li><a href="http://oreilly.com/ebooks/">Ebooks</a></li>
+<li><a href="http://oreilly.com/videos/">Videos</a></li>
+<li><a href="http://oreilly.com/store/order.html">Order Info</a></li>
+</ul>
+</li>
+<li><a href="http://answers.oreilly.com/">Answers</a></li>
+<li><a href="http://radar.oreilly.com">Radar: News &amp; Commentary</a>
+<ul>
+<li><a href="http://radar.oreilly.com/data">Data</a></li>
+<li><a href="http://radar.oreilly.com/edu2">Edu 2.0</a></li>
+<li><a href="http://radar.oreilly.com/gov2">Gov 2.0</a></li>
+<li><a href="http://radar.oreilly.com/mobile">Mobile</a></li>
+<li><a href="http://radar.oreilly.com/programming">Programming</a></li>
+<li><a href="http://radar.oreilly.com/publishing">Publishing</a></li>
+<li><a href="http://radar.oreilly.com/web2">Web 2.0</a></li>
+</ul></li>
+<li><a href="http://safari.oreilly.com/?cid=orm-nav-global">Safari Books Online</a>
+<ul>
+<li><a href="http://my.safaribooksonline.com/home?cid=orm-nav-global&portal=oreilly">Safari Home</a></li>
+<li><a href="http://my.safaribooksonline.com/subscribe?cid=orm-nav-global&portal=oreilly">Subscribe</a></li>
+<li><a href="http://my.safaribooksonline.com/trial?cid=orm-nav-global&portal=oreilly">Free Trial</a></li>
+<li><a href="http://my.safaribooksonline.com/books?cid=orm-nav-global&portal=oreilly">Books</a></li>
+<li><a href="http://my.safaribooksonline.com/video?cid=orm-nav-global&portal=oreilly">Videos</a></li>
+</ul></li>
+<li><a href="http://conferences.oreilly.com/">Conferences</a></li>
+<li><a href="http://training.oreilly.com/">Training</a>
+</li>
+<li><a href="http://www.oreillyschool.com/">School of Technology</a>
+<ul>
+<li><a href="https://oreillyschool.com/enroll/">Enroll</a></li>
+<li><a href="https://oreillyschool.com/career/">Your Career</a></li>
+<li><a href="https://oreillyschool.com/why/">Why OST</a></li>
+<li><a href="https://oreillyschool.com/courses/">Courses&nbsp;&amp;&nbsp;Certificates</a></li>
+<li><a href="https://oreillyschool.com/contact.php">Contact</a></li>
+<li><a href="https://oreillyschool.com/student/">Student Sign In</a></li>
+</ul></li>
+
+</ul>
+
+<ul id="account-actions">
+<li><a href="https://members.oreilly.com/" class="acct">My Account</a></li>
+<li><a href="https://epoch.oreilly.com/shop/cart.orm" class="cart">View Cart</a></li>
+</ul>
+</div>
+	
+	
+<div id="header">	
+<span id="animal"></span>
+
+<div id="main-logo">O'Reilly - Spreading the Knowledge of Technology Innovators</div>
+
+<ul class="accessibility-links">
+<li><a href="#page-content" title="skip navigation" accesskey="s">Skip navigation</a></li>
+<li><a href="#q" title="Skip to search" accesskey="4">Skip to search form</a></li>
+</ul>
+
+<div id="search-box" class="yui-skin-sam">
+
+<form method="get" action="http://search.oreilly.com" id="search-form" name="searchform">
+
+<fieldset>
+<span id="search-input">
+<span id="search-field"><input style="//height: 18px;" id="q" name="q" type="text" maxlength="64" accesskey="s" value="" /></span>
+<span id="search-button">
+<input class="button" type="submit" value="SEARCH" onclick="return searchverif();" />
+</span>
+</span>
+<span class="clear"></span>
+<div id="autocomplete"></div>
+</fieldset>
+</form>
+</div>
+
+</div>	
+
+<div id="subnav">
+<ul>
+<li><a href="http://oreilly.com/community/">Community</a>
+<li><a href="http://oreilly.com/events/">Events</a></li>
+<li><a href="http://oreilly.com/webcasts/">Webcasts</a></li>
+<li><a href="http://elists.oreilly.com">Newsletters</a></li>
+</ul>
+
+
+
+<div class="right">
+<ul>
+<li><a href="http://makezine.com/" onclick="var s=s_gi(s_account);  
+s.eVar22='orm icon make';
+s.events='event6';  
+s.linkTrackVars='eVar22,events';  
+s.linkTrackEvents='event6';  
+s.tl(this,'o','Featured Content Click');"><img src="http://cdn.oreilly.com/radar/images/make/brandnav_make_17h.png" height="17" width="42" alt="Make: logo" /></a></li>
+
+<li><a href="http://www.makershed.com/" onclick="var s=s_gi(s_account);  
+s.eVar22='orm icon makershed';
+s.events='event6';  
+s.linkTrackVars='eVar22,events';  
+s.linkTrackEvents='event6';  
+s.tl(this,'o','Featured Content Click');"><img src="http://cdn.oreilly.com/radar/images/make/brandnav_makershed_17h.png" height="17" width="78" alt="Maker Shed logo" /></a></li>
+
+<li><a href="http://makerfaire.com/" onclick="var s=s_gi(s_account);  
+s.eVar22='orm icon makerfaire';
+s.events='event6';  
+s.linkTrackVars='eVar22,events';  
+s.linkTrackEvents='event6';  
+s.tl(this,'o','Featured Content Click');"><img src="http://cdn.oreilly.com/radar/images/make/brandnav_makerfaire_17h.png" height="17" width="75" alt="Maker Faire logo" /></a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="content-09">
+
+<!-- begin content -->
+<div id="content">
+
+
+<div id="contentmiddle">
+
+
+
+<!-- div style="padding-bottom: 15px;"><a href="http://www.oreillyschool.com/promotion/" onClick="var s=s_gi(s_account); s.products=';il-ost-backtoschool10'; s.eVar23='il-ost-backtoschool10'; s.events='event5'; s.linkTrackVars='eVar23,products,events'; s.linkTrackEvents='event5'; s.tl(this,'o','Ad Click');"><img src="/images/oreilly/ost-promo-back-to-school-hd.png" width="550" height="167" alt="O'Reilly School of Tech - Back To School Special - Save 25%. Use discount code backtoschool10" style="border:none;" /></a></div -->
+
+
+
+<!-- Free to Choose -->
+<!-- div style="margin:0 0 10px 0; overflow:hidden;">
+<h3 style="font-size:28px; line-height:30px; margin:0 0 2px 0; font-weight:normal;"><span style="color:#990000; font-weight:bold;">Free to Choose</span> &ndash; Deal of the Day</h3>
+<p style="margin:0; font-size:15px; line-height:18px;"><span style="font-weight:bold;">Save 60%</span> on all ebooks and videos from our list of over 2,000 titles.</p>
+<a href="http://oreilly.com/store/index.html"><img src="http://oreilly.com/images/emails/email-buy-now-btn.png" align="left" style="margin:10px 10px 0 0;" /></a>
+<p style="margin:8px 0 0 0; font-size:13px; line-height:18px;"><span style="font-weight:bold;">Enter code <span style="color:#990000; font-weight:bold;">DDF2H</span> in the O'Reilly cart.</span><br />
+<span style="font-size:11px;">One Day Only: 11/29/2010</span></p>
+<a href="http://oreilly.com/ebooks/"><img src="http://oreilly.com/images/oreilly/devices-ebooks-videos-550.jpg" width="550" height="213" alt="Lifetime access. Free updates. Multiple DRM-free formats." style="margin:7px 0 10px 0;"></a>
+</div -->
+
+
+<div id="middleleft">
+
+<h2 style="border-bottom:1px solid #666666;
+color:#990000;
+/*font-size:1.25em;*/
+font-size:11px;
+font-weight:bold;
+line-height:1.09em;
+margin-bottom:3pt;
+padding:0.4em 0pt;
+text-transform:uppercase;
+font-family:Verdana,helvetica,arial,sans-serif;">News &amp; Commentary</h2>
+[<a href="http://oreilly.com/archive.csp">Archive</a> | <a href="http://oreilly.com/archiveaudio.csp">Audio</a> | <a href="http://oreilly.com/archivevideo.csp">Video</a> | <a href="http://oreilly.com/archivetags.csp">Popular Tags</a>]
+<br /><br />
+
+<style>
+
+/* Assets */
+
+#front-page-list .asset,
+#front-page-list .comments,
+#front-page-list .trackbacks,
+#front-page-list .archive {
+    overflow: hidden;
+    width: 100%;
+}
+
+#front-page-list .asset,
+#front-page-list .asset-content,
+#front-page-list .comments,
+#front-page-list .trackbacks,
+#front-page-list .archive {
+    position: static;
+    clear: both;
+}
+
+#front-page-list .asset,
+#front-page-list .comments,
+#front-page-list .comments-content,
+#front-page-list .trackbacks,
+#front-page-list .archive,
+#front-page-list .search-form {
+    margin-bottom: 1.5em;
+}
+
+#front-page-list .asset-header,
+#front-page-list .asset-content,
+#front-page-list .asset-body,
+#front-page-list .comments-header,
+#front-page-list .comment-content,
+#front-page-list .comment-footer,
+#front-page-list .comments-open-header,
+#front-page-list .comments-open-content,
+#front-page-list #comments-open-footer,
+#front-page-list .comments-closed,
+#front-page-list #comment-form-external-auth,
+#front-page-list .comments-open-moderated,
+#front-page-list #comment-form-name,
+#front-page-list #comment-form-email,
+#front-page-list #comment-form-url,
+#front-page-list #comment-form-remember-me,
+#front-page-list #comments-open-text,
+#front-page-list .trackbacks-header,
+#front-page-list .trackbacks-info,
+#front-page-list .trackback-content,
+#front-page-list .trackback-footer,
+#front-page-list .archive-content,
+#front-page-list .search-form-header,
+#front-page-list .search-results-header {
+    margin-bottom: .75em;
+}
+
+#front-page-list .entry-categories,
+#front-page-list .entry-tags {
+    margin-bottom: .5em;
+}
+
+#front-page-list .asset-name {
+    margin-bottom: .25em;
+}
+
+#front-page-list .asset-footer,
+#front-page-list .asset-meta {
+    font-size: 11px;
+line-height: normal;
+}
+
+#front-page-list .asset-meta {
+    margin-top: .25em;
+    padding-top: 2px;
+    padding-bottom: .3em;
+    font-weight: normal;
+}
+
+#front-page-list .asset-footer {
+    clear: both;
+    margin-top: 1.5em;
+    padding-top: .5em;
+}
+
+#front-page-list .content-nav {
+    text-align: center;
+}
+
+#front-page-list .entry-tags-header,
+#front-page-list .entry-categories-header {
+    margin-bottom: 0;
+    margin-right: .25em;
+    display: inline;
+    font-weight: bold;
+}
+
+#front-page-list .entry-tags-list,
+#front-page-list .entry-categories-list {
+    display: inline;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+#front-page-list .entry-tags-list .entry-tag,
+#front-page-list .entry-categories-list .entry-category {
+    display: inline;
+}
+
+#front-page-list .mt-image-left {
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+#front-page-list .mt-image-center {
+    display: block;
+    margin: 0 auto 20px;
+    text-align: center;
+}
+
+.mt-image-right {
+    float: right;
+    margin: 0 0 20px 20px;
+}
+
+/*#front-page-list hr { display:none; } */
+/*#front-page-list ol, ul { list-style: none; } */
+
+#front-page-list a:link {
+	color: #0000ff;
+	text-decoration: none;
+}
+
+#front-page-list a:visited {
+	color: #0000ff;
+	text-decoration: none;
+}
+
+#front-page-list a:hover {
+	text-decoration: underline;
+}
+
+#front-page-list .top_stories {
+	border-bottom:1px solid #666666;
+	color:#990000;
+	font-size:11px;
+	font-weight:bold;
+	margin-bottom:10px;
+	padding:0 0 5px 0;
+	text-transform:uppercase;
+	font-family:Verdana,helvetica,arial,sans-serif;
+}
+
+/*.archive-title,*/
+#front-page-list .archive-title h3 {
+	border-bottom: 1px solid rgb(102, 102, 102);
+	padding: 10px 0;
+	color: rgb(153, 0, 0);
+	font-size:11px;
+	font-weight:bold;
+	margin-bottom:10px;
+	text-transform:uppercase;
+	font-family:verdana,helvetica,arial,sans-serif;
+}
+
+#front-page-list .entry-title { font-size:14px; }
+
+#front-page-list .entry-asset { padding:0px; margin:0 0 10px 0; }
+
+#front-page-list .asset-header h2 a {
+	color:#444444;
+	text-decoration:none;
+}
+#front-page-list .asset-header h2 a:hover {
+	color:#990000;
+	text-decoration:none;
+}
+#front-page-list .asset-header h2 a:visited {
+}
+
+#front-page-list .asset-body ul { list-style:disc; }
+#front-page-list .asset-body ol { list-style:decimal; }
+
+#front-page-list .entry-tags-header,
+#front-page-list .entry-tag {
+	font-size:11px;
+}
+#front-page-list .asset-footer { border:0px; }
+
+#front-page-list {
+	font-family:Verdana,helvetica,arial,sans-serif;
+	font-size:11px;
+	line-height:12px;
+	text-align:left;
+}
+#front-page-list a {
+	text-decoration: none;
+}
+#front-page-list h2 {
+	text-transform: none;
+	color:#0033CC;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none;
+	line-height: 17px;
+}
+#front-page-list h3 {
+font-weight: bold; 
+font-size: 10px; 
+color: #444444;
+}
+
+#front-page-list img {
+	border: none;
+}
+
+#front-page-list .asset-meta {
+	font-size: 11px;
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+#front-page-list .asset-body {
+	font-size: 11px;
+	line-height: 14px;
+	margin-top:-15px;
+	padding-top:10px;
+}
+
+
+#front-page-list .asset-body a { font-weight:bold; }
+
+#front-page-list .more {
+	text-align:left;
+	padding-left: 11px;
+	background: url(http://oreilly.com/images/icons/arrow.gif) no-repeat 0 3px;
+}
+
+
+
+</style>
+<div id="front-page-list">
+<!-- temp1-->
+<div id="entry-43431" class="entry-asset asset hentry">
+    <div class="asset-header" style="margin-bottom:0px;">
+<h2 class="asset-name entry-title"><a href="http://answers.oreilly.com/topic/2250-hack-your-kinect-links-and-resources-to-get-started/">Hack your Kinect: Links and resources to get started</a></h2>
+
+&nbsp;</div>
+    <div class="asset-content entry-content">
+<div class="asset-body" style="padding-top: 0px;">
+<br />
+          <div style="float: right; padding-left: 6px;"><a href="http://answers.oreilly.com/topic/2250-hack-your-kinect-links-and-resources-to-get-started/"><img src="http://blogs.oreilly.com/blurbs/2010/11/24/kinect-lightsaber.jpg" alt="Hack your Kinect: Links and resources to get started" title="Hack your Kinect: Links and resources to get started" width="148"/></a></div>
+Microsoft's <a href="http://www.xbox.com/en-US/kinect">Kinect</a> is a hacker's dream. The combination of digital input, physical movement, sound and visuals inspires applications way beyond gaming. On first glance you can see how it could be used for special effects, music, 3-D modeling, even puppetry.  In <a href="http://answers.oreilly.com/">O'Reilly Answers</a>, O'Reilly editor <a href="http://www.oreillynet.com/pub/au/125">Brian Jepson</a> offers curated list of Kinect hacks and resources. <a href="http://answers.oreilly.com/topic/2250-hack-your-kinect-links-and-resources-to-get-started/">Read more</a>.</div>
+    </div>
+    <div class="asset-footer"></div>
+</div>
+ 
+<div id="entry-43413" class="entry-asset asset hentry">
+    <div class="asset-header">
+<h2 class="asset-name entry-title"><a href="http://radar.oreilly.com/2010/11/oreilly-medias-it-strategy.html">The four pillars of O'Reilly's IT strategy</a></h2>
+<h3>We're embarking on a journey that will transform how we deliver and support our technology needs.</h3>
+&nbsp;<div class="asset-meta" style="border: none;">
+By <a href="http://www.oreillynet.com/pub/au/4635">Jonathan Reichental, Ph.D.</a><br /><a href="http://radar.oreilly.com/2010/11/oreilly-medias-it-strategy.html#comments">Comments: 4</a></mt:IfCommentsActive>
+<!-- entry metadata -->
+</div>
+<!-- #entrymetadata -->
+    </div>
+    <div class="asset-content entry-content">
+<div class="asset-body">
+<!-- image for news -->
+            
+<!-- image for radar -->
+         
+<!-- image for broadcast -->
+         
+<!-- image for dev workshops -->
+         
+<!-- image for insideria -->
+         
+<!-- image for dm -->
+         
+<!-- image for FYI -->
+          
+O'Reilly's new IT strategy had to consider the company's culture of innovation while introducing the right level of predictability. Too much unmanaged innovation or codified predictability would limit our ability to grow and be a recipe for IT failure.  <strong><a href="http://radar.oreilly.com/2010/11/oreilly-medias-it-strategy.html">Read more.</a></strong></div>
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+<div id="entry-43425" class="entry-asset asset hentry">
+    <div class="asset-header">
+<h2 class="asset-name entry-title"><a href="http://insideria.com/2010/11/apples-ios-42-delivers-some-we.html">Apple's iOS 4.2 delivers some welcome features for Web Developers</a></h2>
+
+&nbsp;<div class="asset-meta" style="border: none;">
+By <a href="http://www.oreillynet.com/pub/au/4375">Matthew David</a><br /><a href="http://insideria.com/2010/11/apples-ios-42-delivers-some-we.html#comments">Comments: 4</a></mt:IfCommentsActive>
+<!-- entry metadata -->
+</div>
+<!-- #entrymetadata -->
+    </div>
+    <div class="asset-content entry-content">
+<div class="asset-body">
+<!-- image for news -->
+            
+<!-- image for radar -->
+         
+<!-- image for broadcast -->
+         
+<!-- image for dev workshops -->
+         
+<!-- image for insideria -->
+         
+<!-- image for dm -->
+         
+<!-- image for FYI -->
+          
+Apple released an update to iOS (4.2.1) to bring the iPad and iPhone in sync with each other. Apple also took this update to slip in some enhancements to their Web browser, Mobile Safari. <strong><a href="http://insideria.com/2010/11/apples-ios-42-delivers-some-we.html">Read more.</a></strong></div>
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+<div id="entry-43426" class="entry-asset asset hentry">
+    <div class="asset-header" style="margin-bottom:0px;">
+<h2 class="asset-name entry-title"><a href="http://answers.oreilly.com/topic/2249-how-to-lock-your-ipad-screen-orientation-in-ios-4-2/">How to lock your iPad screen orientation in iOS 4.2</a></h2>
+<h3>What's new in O'Reilly Answers: How to keep data analysis simple, remove a color cast in Photoshop Elements, and much more.</h3>
+&nbsp;</div>
+    <div class="asset-content entry-content">
+<div class="asset-body" style="padding-top: 0px;">
+<br />
+          <div style="float: right; padding-left: 6px;"><a href="http://answers.oreilly.com/topic/2249-how-to-lock-your-ipad-screen-orientation-in-ios-4-2/"><img src="http://blogs.oreilly.com/blurbs/2010/11/23/answers-112310-2.jpg" alt="How to lock your iPad screen orientation in iOS 4.2" title="How to lock your iPad screen orientation in iOS 4.2" width="148"/></a></div>
+If you haven't already updated your iPad to iOS 4.2, go ahead and sync it in iTunes now and check for updates. The new version finally shipped yesterday, and it's well worth the upgrade for multitasking and app folders alone. But the one "feature" many of us were dreading was death of the "screen orientation lock" switch. The lock is still available, but now you have to dig around for it. <a href="http://answers.oreilly.com/topic/2249-how-to-lock-your-ipad-screen-orientation-in-ios-4-2/">Read more</a>.<br /><br />More from O'Reilly Answers:<br /><br /><ul style="margin: 0 0 0 1.2em; padding: 3px 0 10px 0;"><li style="padding-bottom: 6px;"><a href="http://answers.oreilly.com/topic/2246-how-to-keep-data-analysis-simple/">How to keep data analysis simple</a></li><li style="padding-bottom: 6px;"><a href="http://answers.oreilly.com/topic/2245-how-to-remove-a-color-cast-in-photoshop-elements-9/">How to remove a color cast in Photoshop Elements 9</a></li><li style="padding-bottom: 6px;"><a href="http://answers.oreilly.com/topic/2165-how-to-search-google-and-bing-in-c/">How to search Google and Bing in C#</a></li><li style="padding-bottom: 0px;"><a href="http://answers.oreilly.com/topic/2236-how-to-install-quickbooks-2011/">How to install Quickbooks 2011</a></li></ul> Share knowledge, ask questions on <a href="http://answers.oreilly.com/">O'Reilly Answers</a> today.</div>
+    </div>
+    <div class="asset-footer"></div>
+</div>
+ 
+<div id="entry-43429" class="entry-asset asset hentry">
+    <div class="asset-header" style="margin-bottom:0px;">
+<h2 class="asset-name entry-title"><a href="http://oreilly.com/go/pythonpearls">Paul's Python Pearls</a></h2>
+<h3>A Free Live Webcast - Dec 1 @ 1pm PT</h3>
+&nbsp;</div>
+    <div class="asset-content entry-content">
+<div class="asset-body" style="padding-top: 0px;">
+<br />
+          <div style="float: right; padding-left: 6px;"><a href="http://oreilly.com/go/pythonpearls"><img src="http://blogs.oreilly.com/blurbs/2010/11/23/paul-barry.jpg" alt="Paul's Python Pearls" title="Paul's Python Pearls" width="148"/></a></div>
+<span style="color: #990000; font-size: 11px;"><strong>Happening Next Week</strong></span> &ndash; Over the past quarter century, Paul Barry has used lots of different programming languages on lots of different platforms.  In this webcast, Paul discusses what it is about his current favorite language--Python--that makes it a stand-out programming technology for him.  Paul discusses those Python features that are "pearls", in his opinion.  You may not agree with all of Paul's picks, but we hope you'll find Paul's discussion interesting, enlightening and maybe even entertaining.  And, of course, as this is an O'Reilly webcast, you're invited to the party, too, so come along and have your say. <a href="http://oreilly.com/go/pythonpearls" rel="nofollow">Register for the webcast now.</a> <br /><br />More upcoming webcasts:<br><br><ul style="list-style: none outside none; margin: 0pt 0pt 0pt 1.2em; padding: 3px 0pt 0px;"><li style="overflow: auto; clear: both; margin-bottom: 16px;"><a href="http://www.oreillynet.com/pub/e/1788">Netflix and the Second Coming of the Internet</a><br />Presented by <a href="http://www.oreillynet.com/pub/au/4653">Mike Debnar</a>, <a href="http://www.oreillynet.com/pub/au/4654">Michael Hart</a><br />December 2, 2010 @ 10 PT</li></ul><p>Check out our <a href="http://oreilly.com/webcasts/"><strong>Webcast page</strong></a> for on-demand videos of past webcasts and more upcoming live events.</p></div>
+    </div>
+    <div class="asset-footer"></div>
+</div>
+ 
+<div id="entry-43312" class="entry-asset asset hentry">
+    <div class="asset-header">
+<h2 class="asset-name entry-title"><a href="http://radar.oreilly.com/2010/11/open-ended-publishing.html">Open-ended publishing</a></h2>
+<h3>Digital content isn't defined by editions, so let's stop thinking that way.</h3>
+&nbsp;<div class="asset-meta" style="border: none;">
+By <a href="http://www.oreillynet.com/pub/au/3515">Mac Slocum</a><br /><a href="http://radar.oreilly.com/2010/11/open-ended-publishing.html#comments">Comments: 9</a></mt:IfCommentsActive>
+<!-- entry metadata -->
+</div>
+<!-- #entrymetadata -->
+    </div>
+    <div class="asset-content entry-content">
+<div class="asset-body">
+<!-- image for news -->
+            
+<!-- image for radar -->
+          <div style="float: right; padding-left: 6px;"><a href="http://radar.oreilly.com/2010/11/open-ended-publishing.html"><img src="http://radar.oreilly.com/2010/11/23/1110-openendedpub-slider.png" alt="Open-ended publishing" title="Open-ended publishing" width="148"/></a></div>
+<!-- image for broadcast -->
+         
+<!-- image for dev workshops -->
+         
+<!-- image for insideria -->
+         
+<!-- image for dm -->
+         
+<!-- image for FYI -->
+          
+Content creators are trained to create defined editions: a book, an article, a movie, etc. Yet, digital content doesn't work that way. It flows and mashes up, dissipates and then reassembles. That's why it's time for a mental shift toward open-ended publishing. <strong><a href="http://radar.oreilly.com/2010/11/open-ended-publishing.html">Read more.</a></strong></div>
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+<div id="entry-43382" class="entry-asset asset hentry">
+    <div class="asset-header" style="margin-bottom:0px;">
+<h2 class="asset-name entry-title"><a href="http://www.web2summit.com/web2010/">Web 2.0 Summit is a wrap</a></h2>
+
+&nbsp;</div>
+    <div class="asset-content entry-content">
+<div class="asset-body" style="padding-top: 0px;">
+<br />
+          <div style="float: right; padding-left: 6px;"><a href="http://www.web2summit.com/web2010/"><img src="http://blogs.oreilly.com/blurbs/2010/11/17/web2summit-148.png" alt="Web 2.0 Summit is a wrap" title="Web 2.0 Summit is a wrap" width="148"/></a></div>
+The Internet's points of control were in the spotlight at the Web 2.0 Summit in San Francisco. Summit is a wrap, but you can still access 
+<a href="http://www.youtube.com/view_play_list?p=2737D508F656CCF8">videos</a>, 
+<a
+href="http://www.web2summit.com/web2010/public/schedule/proceedings">speaker slides</a>, <a
+href="http://www.flickr.com/photos/oreillyconf/sets/72157625396762642/">photos</a>,
+<a href="http://www.web2summit.com/web2010/public/content/news-coverage">news &amp; coverage</a> through the <a href="http://www.web2summit.com/web2010">Web 2.0 Summit site</a>. <br /><br />
+
+And be sure to keep an eye out for <a
+href="http://www.web2expo.com/webexsf2011">Web 2.0 Expo SF</a>, happening March 28-31, 2011. Registration will open in December. 
+
+    <br /><br /><strong>Related Web 2.0 Summit coverage:</strong><br /><br /><ul style="margin: 0 0 0 1.2em; padding: 3px 0 10px 0;"><li style="padding-bottom: 6px;"><a href="http://www.youtube.com/oreillymedia#p/c/2737D508F656CCF8/0/Czw-dtTP6oU">A conversation with Mark Zuckerberg</a></li><li style="padding-bottom: 6px;"><a href="http://www.youtube.com/oreillymedia#p/c/2737D508F656CCF8/1/S6JJyxde600">A conversation with Carol Bartz</a></li><li style="padding-bottom: 0px;"><a href="http://www.youtube.com/oreillymedia#p/c/2737D508F656CCF8/20/ur-dytCq7Hc">Baidu CEO Robin Li on search in China</a></li></ul></div>
+    </div>
+    <div class="asset-footer"></div>
+</div>
+ 
+  
+</div>
+
+ 
+
+<p class="more"><a href="http://oreilly.com/archive.csp"><strong>More News</strong></a></p>
+
+<div class="clear"></div>
+<br />
+</div> <!-- /#middleleft -->
+
+<div id="middleright">
+
+<!-- Ebook deal of the day homepage -->
+<div id="orm-dotd">
+<!-- dotdbox homepage -->
+<div class="orm-dotd" style="margin-bottom: 5px;">
+<h2 style="border-bottom:1px solid #666666; color:#990000; font-size:11px; font-weight:bold; line-height:1.09em; margin-bottom:4pt; padding:0.4em 0pt; text-transform:uppercase; font-family:Verdana,helvetica,arial,sans-serif;">One Day Only</h2>
+<div style="margin:0; padding-left:0; padding-right:0; padding-top: 3px; padding-bottom: 8px;"><a href="http://oreilly.com/catalog/9780596804534/" rel="nofollow,noindex" style="color: #444; font-size: 13px; line-height: 16px"><strong>Ebook Deal of the Day &ndash; <span style='color: #990000;'>$14.99 (Save 63%)</span></strong></a></div><a href="http://oreilly.com/catalog/9780596804534/" onClick="var s=s_gi(s_account);s.products=';edod-home-1-erlang programming'; s.eVar14='edod-home-2-erlang programming'; s.events='event5'; s.linkTrackVars='eVar23,products,events'; s.linkTrackEvents='event5'; s.tl(this,'o','Ad Click');"><img src="http://covers.oreilly.com/images/9780596804534/bkt.gif" alt="Erlang Programming" style="padding-bottom: 8px; padding-top: 2px; padding-right: 4px; margin:0;" border="0" align="left" /></a><strong><a href="http://oreilly.com/catalog/9780596804534/" onClick="var s=s_gi(s_account);s.products=';edod-home-3-erlang programming'; s.eVar14='edod-home-4-erlang programming'; s.events='event5'; s.linkTrackVars='eVar23,products,events';  
+s.linkTrackEvents='event5'; s.tl(this,'o','Ad Click');">Erlang Programming</a></strong><br />Use discount code: <strong>DDEPG</strong><br />
+
+
+
+</div>
+<!-- #dotdbox homepage -->
+
+
+
+<div style="clear: both;"><a href="http://feeds.feedburner.com/oreilly/ebookdealoftheday"><img border="0" align="left" style="padding:0;" src="http://cdn.oreilly.com/oreilly/icons/feed-icon-16x16.png" alt="Subscribe" />O'Reilly Deal Feed</a></div><br clear="all" />
+</div>
+
+
+<!-- ost cert -->
+<h2 style="border-bottom:1px solid #666666;
+color:#990000;
+/*font-size:1.25em;*/
+font-size:11px;
+font-weight:bold;
+line-height:1.09em;
+margin-bottom:4pt;
+padding:0.4em 0pt;
+text-transform:uppercase;
+font-family:Verdana,helvetica,arial,sans-serif;">Online Courses</h2>
+
+<a href="http://www.oreillyschool.com/promotion/?cmp=il-ost-promo-nov1-cert25"><img src="http://oreilly.com/images/oreilly/blurbs/OST_140.gif" alt="OST" style="padding:0; padding-bottom: 2px; padding-top: 2px;" border="0" /></a>
+<br clear="both" />
+
+<div style="margin:0; padding-left:0; padding-right:0; padding-top: 3px; padding-bottom: 8px;"><a href="http://www.oreillyschool.com/promotion/?cmp=il-ost-promo-nov1-cert25" style="color: #444; font-size: 13px; line-height: 16px;"><strong>"The Courses are Done Perfectly." - <span style="color: #990000;">Enroll Now and Save 25%</span></strong></a>
+</div>
+
+<div style="float: right; padding: 0; margin:0;"><a href="http://www.oreillyschool.com/promotion/?cmp=il-ost-promo-nov1-cert25"><img src="/images/oreilly/ost-kent-elchuk-65.png" width="65" alt="OST Student" style="padding-left:2px; padding-bottom: 10px; padding-top: 0px;" border="0" align="right" /></a></div>
+
+<p style="margin:0 0 5px 0; padding:0;">
+"...it is obvious that all O'Reilly School of Technology teachers are pros. Besides that, the courses are done perfectly. They emphasize the important concepts and contain 'no fluff'." &ndash; Kent Elchuk</p>
+
+
+<!--
+<ul class="booklist">
+<li><a href="http://www.oreillyschool.com/courses/unix/?cmp=il-ost-promo-oct4-newcourses"><strong>Unix for Web Programming</strong></a>: Updated to reflect most current technologies and procedures.</li>
+<li><a href="http://www.oreillyschool.com/courses/introxml/?cmp=il-ost-promo-oct4-newcourses"><strong>Introduction to XML</strong></a>: Replaces <em>Learn XML</em> with more substantial, up-to-date topics.</li>
+<li><a href="http://www.oreillyschool.com/courses/c-programming/?cmp=il-ost-promo-oct4-newcourses"><strong>Introduction to C Programming</strong></a>: Replaces <em>C parts 1 and 2</em> as a more robust course for C beginners.</li>
+</ul>
+-->
+
+<strong>Certificate Programs:</strong><br />
+
+<ul class="booklist">
+<li><a href="http://www.oreillyschool.com/certificates/database-administration.php?cmp=il-ost-promo-nov1-cert25">Database Administration</a></li>
+<li><a href="http://www.oreillyschool.com/certificates/java-programming.php?cmp=il-ost-promo-nov1-cert25">Java Programming</a></li>
+<li><a href="http://www.oreillyschool.com/certificates/client-side-programming.php?cmp=il-ost-promo-nov1-cert25">Client-Side Web Programming</a></li>
+<li><a href="http://www.oreillyschool.com/certificates/system-administration.php?cmp=il-ost-promo-nov1-cert25">Linux/Unix System Admin</a></li>
+<li><a href="http://www.oreillyschool.com/certificates/php-sql-programming.php?cmp=il-ost-promo-nov1-cert25">PHP/MySQL</a></li>
+<li><a href="http://www.oreillyschool.com/certificates/web-programming.php?cmp=il-ost-promo-nov1-cert25">Web Programming</a></li>
+<li><a href="http://www.oreillyschool.com/certificates/open-source-programming.php?cmp=il-ost-promo-nov1-cert25">Open Source Programming</a></li>
+<li><a href="http://www.oreillyschool.com/certificates/dot-net-programming.php?cmp=il-ost-promo-nov1-cert25">.NET Programming</a></li>
+</ul>
+
+<span class="more"><a href="http://www.oreillyschool.com/promotion/?cmp=il-ost-promo-nov1-cert25"><strong>Enroll Now and Save</strong></a></span>
+<br /><br />
+
+<!-- ost cert to here -->
+
+
+
+<!-- Microsoft Press deal of the day homepage -->
+<div id="msp-dotd">
+<!-- dotdbox homepage -->
+<div class="orm-dotd" style="margin-bottom: 5px;">
+<h2 style="border-bottom:1px solid #666666; color:#990000; font-size:11px; font-weight:bold; line-height:1.09em; margin-bottom:4pt; padding:0.4em 0pt; text-transform:uppercase; font-family:Verdana,helvetica,arial,sans-serif;">From Microsoft Press</h2>
+<div style="margin:0; padding-left:0; padding-right:0; padding-top: 3px; padding-bottom: 8px;"><a href="http://oreilly.com/catalog/9780735640610/" rel="nofollow,noindex" style="color: #444; font-size: 13px; line-height: 16px"><strong>Ebook Deal of the Day &ndash; <span style='color: #990000;'>$23.99 (Save 50%)</span></strong></a></div><a href="http://oreilly.com/catalog/9780735640610/" onClick="var s=s_gi(s_account);s.products=';edod-home-1-microsoft exchange server 2010 inside out'; s.eVar14='edod-home-2-microsoft exchange server 2010 inside out'; s.events='event5'; s.linkTrackVars='eVar23,products,events'; s.linkTrackEvents='event5'; s.tl(this,'o','Ad Click');"><img src="http://covers.oreilly.com/images/9780735640610/bkt.gif" alt="Microsoft Exchange Server 2010 Inside Out" style="padding-bottom: 8px; padding-top: 2px; padding-right: 4px; margin:0;" border="0" align="left" /></a><strong><a href="http://oreilly.com/catalog/9780735640610/" onClick="var s=s_gi(s_account);s.products=';edod-home-3-microsoft exchange server 2010 inside out'; s.eVar14='edod-home-4-microsoft exchange server 2010 inside out'; s.events='event5'; s.linkTrackVars='eVar23,products,events';  
+s.linkTrackEvents='event5'; s.tl(this,'o','Ad Click');">Microsoft Exchange Server 2010 Inside Out</a></strong><br />Use discount code: <strong>DDMXS</strong><br />
+
+
+
+</div>
+<!-- #dotdbox homepage -->
+
+
+
+<div style="clear: both;"><a href="http://feeds.feedburner.com/oreilly/mspebookdeal"><img border="0" align="left" style="padding:0;" src="http://cdn.oreilly.com/oreilly/icons/feed-icon-16x16.png" alt="Subscribe" />Microsoft Press Deal Feed</a></div><br clear="all" />
+</div>
+
+<!-- Make deal of the day homepage -->
+<div class="dotd">
+
+<h2 style="border-bottom: 1px solid #666666; color: #990000; font-size: 11px; font-weight: bold; line-height: 1.09em; margin-bottom: 4pt; padding: 0.4em 0pt; font-family: Verdana,helvetica,arial,sans-serif;">From the Maker Shed</h2>
+
+<div style="margin: 0; padding-left: 0; padding-right: 0; padding-top: 3px; padding-bottom: 8px;"><a href="http://www.makershed.com/ProductDetails.asp?ProductCode=9780596519414&Click=64206" style="font-weight:bold; color:#444; font-size:13px; line-height:16px;">Make: Deal of the Day <span style="color:#990000;">FREE with any order over $200 - Just add it to your cart!</span></a></div>
+
+<a href="http://www.makershed.com/ProductDetails.asp?ProductCode=9780596519414&Click=64206" style="text-align:center; display:block; overflow:hidden;"><img src="http://www.makershed.com/v/vspfiles/photos/9780596519414-2T.jpg" width="174" alt="Make: Year 5" style="float:none; border:1px solid #ccc; margin:0 0 5px 0; padding:0;" /></a>
+
+<h3 style="margin:0; padding:0 0 5px 0; font-weight:bold; font-size:11px;"><a href="http://www.makershed.com/ProductDetails.asp?ProductCode=9780596519414&Click=64206">Maker's Notebook</a></h3>
+
+<div style="clear: both;"><a href="http://feeds.feedburner.com/oreilly/make/dealoftheday"><img border="0" align="left" style="padding:0;" src="http://cdn.oreilly.com/oreilly/icons/feed-icon-16x16.png" alt="RSS 2.0 Feed" />Make Deal Feed</a></div>
+<br clear="all" />
+
+</div>
+
+
+<h2 style="border-bottom:1px solid #666666;
+color:#990000;
+/*font-size:1.25em;*/
+font-size:11px;
+font-weight:bold;
+line-height:1.09em;
+margin-bottom:4pt;
+padding:0.4em 0pt;
+text-transform:uppercase;
+font-family:Verdana,helvetica,arial,sans-serif;">Conferences</h2>
+
+<!-- 
+
+<div style="margin:0; padding-left:0; padding-right:0; padding-top: 3px; padding-bottom: 8px;"><a href="http://mysqlconf.com/" style="color: #222; font-size: 13px; line-height: 16px;">
+<strong>The Ecosystem and Beyond</strong></a><br />
+</div>
+
+<a href="http://mysqlconf.com/"><img src="/images/oreilly/mysql-photo-65.png" alt="MySQL Conf" style="padding-top: 4px; padding-bottom:0; padding-left: 1px;" width="65" align="right" border="0" /></a> 
+
+<a href="http://mysqlconf.com/"><strong>O'Reilly MySQL Conference &amp; Expo</strong></a> spreads the latest and best knowledge on MySQL and the open source database world beyond. <br /><br />
+
+-->
+
+<div style="margin:0; padding-left:0; padding-right:0; padding-top: 3px; padding-bottom: 8px;"><a href="http://strataconf.com/" style="color: #222; font-size: 13px; line-height: 20px;">
+<strong>Turn data into decisions</strong></a><br />
+<a href="http://strataconf.com/" style="color: #222; font-size: 11px; line-height: 16px;"><strong>O'Reilly Strata Conference</strong><br />February 1-3, 2011</a>
+</div>
+
+<a href="http://strataconf.com/"><img src="/images/oreilly/strata-logo-85.gif" alt="Strata Conference" style="padding-bottom:0; padding-left: 1px;" width="85" align="right" border="0" /></a> 
+Join us at Strata, the defining conference for the layered world of tomorrow. <a href="http://strataconf.com/"><strong>Register Now &amp; Save up to $250</strong></a><br /><br />
+
+<strong>More Conferences:</strong><br />
+<ul class="booklist">
+<li><a href="http://www.toccon.com/toc2011">O'Reilly Tools of Change for Publishing Conference</a></li>
+<li><a href="http://www.web2expo.com/sf">Web 2.0 Expo SF</a></li>
+<li><a href="http://mysqlconf.com/">O'Reilly MySQL<br />Conference &amp; Expo</a></li>
+
+</ul>
+<br /> 
+
+
+
+<h2 style="border-bottom:1px solid #666666;
+color:#990000;
+/*font-size:1.25em;*/
+font-size:11px;
+font-weight:bold;
+line-height:1.09em;
+margin-bottom:4pt;
+padding:0.4em 0pt;
+text-transform:uppercase;
+font-family:Verdana,helvetica,arial,sans-serif;">New Books &amp; Videos</h2>
+
+<a href="http://oreilly.com/oreilly/cs/b2g1f.html" style="color: #222; font-size: 13px; line-height: 16px;"><strong>Buy 2 books, get <br />the <span style="color: #990000;">3rd FREE</span></strong></a><br/>Use discount code: <strong>OPC10</strong><br />
+
+<a href="http://oreilly.com/oreilly/cs/b2g1f.html"><img src="/images/oreilly/feb2010-glam-bookshelf.jpg" alt="Books" style="padding-bottom: 0px; padding-top: 12px;" border="0" width="145" height="182" /></a><br />
+
+All orders over $29.95 qualify for <span style="color: #990000"><b>free shipping</b></span> within the US.  <small><a href="http://oreilly.com/oreilly/cs/b2g1f.html"><strong>See details.</strong></a></small><br />
+
+<ul class="booklist"><li><a href="http://oreilly.com/catalog/9780735640610/">Microsoft® Exchange Server 2010 Inside Out</a></li>
+
+
+
+
+
+
+<li><a href="http://oreilly.com/catalog/9781449388249/">Building the Perfect PC, Third Edition</a></li>
+
+
+
+
+
+
+<li><a href="http://oreilly.com/catalog/9780735640573/">Programming Microsoft® LINQ in Microsoft .NET Framework 4</a></li>
+
+
+
+
+
+
+<li><a href="http://oreilly.com/catalog/9780735645561/">Windows® Communication Foundation 4 Step by Step</a></li>
+
+
+
+
+
+
+<li><a href="http://oreilly.com/catalog/9780735656062/">Developing Applications for the Cloud on the Microsoft® Windows Azure™ Platform</a></li>
+
+
+
+
+
+
+<li><a href="http://oreilly.com/catalog/9780596809560/">Real World Instrumentation with Python</a></li>
+
+
+
+
+
+
+<li><a href="http://oreilly.com/catalog/9781449382674/">Head First Python</a></li>
+
+
+
+
+
+
+<li><a href="http://oreilly.com/catalog/9781934356678/">Pragmatic Guide to JavaScript</a></li>
+
+
+
+
+
+
+</ul>
+
+<p class="more"><a href="http://oreilly.com/store/newreleases.html">More New Books &amp; Videos</a></p>
+
+
+<br />
+<h2 style="border-bottom:1px solid #666666;
+color:#990000;
+/*font-size:1.25em;*/
+font-size:11px;
+font-weight:bold;
+line-height:1.09em;
+margin-bottom:4pt;
+padding:0.4em 0pt;
+text-transform:uppercase;
+font-family:Verdana,helvetica,arial,sans-serif;">Upcoming Books &amp; Videos</h2>
+
+<ul class="booklist"><li><a href="http://oreilly.com/catalog/9781449388485/">The Facebook Marketing Book</a></li>
+
+<li><a href="http://oreilly.com/catalog/9781934356371/">The RSpec Book</a></li>
+
+<li><a href="http://oreilly.com/catalog/9781593272159/">The Unofficial LEGO MINDSTORMS NXT 2.0 Inventor's Guide, Second Edition</a></li>
+
+<li><a href="http://oreilly.com/catalog/9781449388454/">Learning the iOS 4 SDK for JavaScript Programmers</a></li>
+
+<li><a href="http://oreilly.com/catalog/9781449393861/">Droid X: The Missing Manual</a></li>
+
+<li><a href="http://oreilly.com/catalog/9780735627406/">MCTS Self-Paced Training Kit (Exam 70-515): Web Applications Development with Microsoft® .NET Framework 4</a></li>
+
+<li><a href="http://oreilly.com/catalog/9780735656086/">Designing Solutions for Microsoft® SharePoint® 2010</a></li>
+
+<li><a href="http://oreilly.com/catalog/9781449392475/">Best iPad Apps</a></li>
+
+</ul>
+
+<br />
+<span class="more"><a href="http://oreilly.com/store/upcoming.csp">More Upcoming Books &amp; Videos</a></span>
+<br /><br />
+
+</div> <!-- /#middleright -->
+</div> <!-- /#contentmiddle -->
+
+<div id="contentright">
+
+<!-- Stay Connected, RSS box -->
+
+<!-- ### Store ### -->
+
+
+
+<!-- ### Home ### -->
+
+
+
+
+<div class="sidebar-item">
+<h3>Stay Connected</h3>
+<div class="sidebar-item-content">
+
+
+<a href="http://elists.oreilly.com/" onClick="var s=s_gi(s_account); s.products=';il-sc-elists'; s.eVar23='il-sc-elists'; s.events='event5'; s.linkTrackVars='eVar23,products,events'; s.linkTrackEvents='event5'; s.tl(this,'o','Ad Click');"><img src="http://cdn.oreilly.com/oreilly/icons/email-16x16.gif" alt="RSS 2.0 Feed"  border="0" width="16" height="16" style="padding-bottom:20px;padding-right:8px;" align="left" />Subscribe to our Newsletters</a> 
+<br clear="all" />
+
+<a href="http://youtube.com/oreillymedia" onClick="var s=s_gi(s_account); s.products=';il-sc-youtube'; s.eVar23='il-sc-youtube'; s.events='event5'; s.linkTrackVars='eVar23,products,events'; s.linkTrackEvents='event5'; s.tl(this,'o','Ad Click');"><img src="http://cdn.oreilly.com/oreilly/icons/youtube-icon.png" alt="O'Reilly on YouTube"  border="0" width="16" height="16" style="padding-bottom:8px;padding-right:8px;" align="left" valign="center" />O'Reilly on YouTube</a> 
+<br clear="all" />
+
+<a href="http://twitter.com/oreillymedia" onClick="var s=s_gi(s_account); s.products=';il-sc-twitter'; s.eVar23='il-sc-twitter'; s.events='event5'; s.linkTrackVars='eVar23,products,events'; s.linkTrackEvents='event5'; s.tl(this,'o','Ad Click');"><img src="http://cdn.oreilly.com/oreilly/icons/twitter-16x16.png" alt="O'Reilly Media on Twitter"  border="0" width="16" height="16" style="padding-bottom:8px;padding-right:8px;" align="left" />O'Reilly on Twitter</a> 
+<br clear="all" />
+
+<a href="http://www.facebook.com/OReilly" onClick="var s=s_gi(s_account); s.products=';il-sc-facebook'; s.eVar23='il-sc-facebook'; s.events='event5'; s.linkTrackVars='eVar23,products,events'; s.linkTrackEvents='event5'; s.tl(this,'o','Ad Click');"><img src="http://cdn.oreilly.com/oreilly/icons/facebook-16x16.png" alt="Facebook"  border="0" width="16" height="16" style="padding-bottom:8px;padding-right:8px;" align="left" />O'Reilly on Facebook</a> 
+<br clear="all" />
+
+<a href="http://www.linkedin.com/groups?home=&amp;gid=45672&amp;trk=anet_ug_hm" onClick="var s=s_gi(s_account); s.products=';il-sc-linkedin'; s.eVar23='il-sc-linkedin'; s.events='event5'; s.linkTrackVars='eVar23,products,events'; s.linkTrackEvents='event5'; s.tl(this,'o','Ad Click');"><img src="http://cdn.oreilly.com/oreilly/icons/linkedin-16x16.png" alt="LinkedIn"  border="0" width="16" height="16" style="padding-bottom:8px;padding-right:8px;" align="left" />O'Reilly on LinkedIn</a>
+<br clear="all" />
+
+<a href="feed://feeds.feedburner.com/oreilly/news" onClick="var s=s_gi(s_account); s.products=';il-sc-feeds-news'; s.eVar23='il-sc-feeds-news'; s.events='event5'; s.linkTrackVars='eVar23,products,events'; s.linkTrackEvents='event5'; s.tl(this,'o','Ad Click');"><img src="http://cdn.oreilly.com/oreilly/icons/feed-icon-16x16.png" alt="RSS 2.0 Feed"  border="0" width="16" height="16" style="padding-bottom:8px; padding-right:8px;" align="left" />News &amp; Commentary Feed</a> 
+<br clear="all" />
+
+<a href="http://feeds.feedburner.com/oreilly/newbooks" onClick="var s=s_gi(s_account); s.products=';il-sc-feeds-newbooks'; s.eVar23='il-sc-feeds-newbooks'; s.events='event5'; s.linkTrackVars='eVar23,products,events'; s.linkTrackEvents='event5'; s.tl(this,'o','Ad Click');"><img src="http://cdn.oreilly.com/oreilly/icons/feed-icon-16x16.png" alt="RSS 2.0 Feed"  border="0" width="16" height="16" style="padding-bottom:8px;padding-right:8px;" align="left" />New Titles Feed</a> 
+<br clear="all" />
+
+<a href="http://feeds.feedburner.com/oreilly/upcomingbooks" onClick="var s=s_gi(s_account); s.products=';il-sc-feeds-upcomingbooks'; s.eVar23='il-sc-feeds-upcomingbooks'; s.events='event5'; s.linkTrackVars='eVar23,products,events'; s.linkTrackEvents='event5'; s.tl(this,'o','Ad Click');"><img src="http://cdn.oreilly.com/oreilly/icons/feed-icon-16x16.png" alt="RSS 2.0 Feed"  border="0" width="16" height="16" style="padding-bottom:8px;padding-right:8px;" align="left" />Upcoming Titles Feed</a> 
+<br clear="all" />
+
+
+
+
+
+<!-- ### News ### -->
+
+
+
+<!-- ### Community ### -->
+
+
+
+
+
+<span class="more"><a href="http://www.oreillynet.com/feeds/" onClick="var s=s_gi(s_account); s.products=';il-sc-feeds'; s.eVar23='il-sc-feeds'; s.events='event5'; s.linkTrackVars='eVar23,products,events'; s.linkTrackEvents='event5'; s.tl(this,'o','Ad Click');">New to RSS?</a></span>
+
+
+</div>
+</div>
+
+<!-- Facebook Like Box -->
+
+<div class="sidebar-item">
+<h3>Join Us on Facebook</h3>
+<div class="sidebar-item-content" style="padding:0; border:0;">
+
+<iframe src="http://www.facebook.com/plugins/likebox.php?id=15137500430&amp;width=176&amp;connections=4&amp;stream=false&amp;header=false&amp;height=280" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:176px; height:280px;" allowTransparency="true"></iframe>
+
+
+</div>
+</div>
+
+<!-- Safari Promo -->
+
+<div class="sidebar-item">
+<h3>Your Library in the Cloud</h3>
+<div class="sidebar-item-content">
+
+<p style="margin:0; padding:0; font-size:11px; font-weight:normal; text-align:left; line-height:14px; background-color: #fff;">
+
+<a href="http://www.safaribooksonline.com/oreilly/cloud/?cid=201009-orm-safari-cloudwebhome"><img src="http://oreilly.com/images/oreilly/safari/safari-15and15.png" width="142" alt="Safari" style="padding:0 0 0 5px; margin:0;" /></a>
+<br clear="all" />
+
+        <ul>
+          <li style="margin:0 0 1em 15px;"><p>More than 40 of the world's leading publishers</p></li>
+          <li style="margin:0 0 1em 15px;"><p>Access more than 10,000 books &amp; videos</p></li>
+          <li style="margin:0 0 1em 15px;"><p>Build your own custom library</p></li>
+          <li style="margin:0 0 1em 15px;"><p>Read books before they are published</p></li>
+        </ul>
+
+        <ul>
+          <li style="margin:0 0 1em 15px;"><p>Copy and paste code samples</p></li>
+          <li style="margin:0 0 1em 15px;"><p>Search multiple titles on one platform</p></li>
+          <li style="margin:0 0 1em 15px;"><p>Read books on mobile devices</p></li>
+        </ul>
+
+Experience Safari today with a <span style="color: #990000;"><strong>15 day free trial</strong></span>. Price after trial: <strike>$42.99</strike> $36.50/month for the first year. 
+
+<a href="http://www.safaribooksonline.com/oreilly/cloud/?cid=201009-orm-safari-cloudwebhome"><img src="http://oreilly.com/images/oreilly/safari/safari-trynowbutton_160.png" width="154" style="padding:4px 0 0 0;" border="0" /></a>
+</div>
+</div>
+
+
+
+<!-- Satisfaction topic list widget -->
+<div class="sidebar-item">
+  <div id="gsfn_list_widget">
+
+    <h3>Got a Question?</h3>
+
+    <div class="sidebar-item-content"><img src="/images/oreilly/satisfaction-icons.gif" alt="" /><br />
+ <div class="gsfn_content">
+    <form id="gsfn_search_form" action="http://getsatisfaction.com/oreilly" method="get" accept-charset="utf-8" onsubmit="gsfn_search(this); return false;">
+      <input type="hidden" name="widget" value="" />
+      <input type="hidden" name="limit" value="3" />
+      <input type="hidden" name="style" value="" />
+      <input type="hidden" name="callback" value="gsfnResultsCallback" />
+      <input type="hidden" name="format" value="json" />
+
+      <label for="gsfn_search_query" class="gsfn_label">
+
+Do you have a question about <strong>O'Reilly's products and services</strong>? Share an idea! Report a problem...</label><br /><br />
+      <input type="text" size="16" name="query" value="" id="gsfn_search_query" maxlength="120" style="padding-bottom: 6px;"/><br />
+
+      <input type="submit" id="continue" value="Continue" />
+    </form>
+
+    <div id="gsfn_search_results" style="height: auto;"></div>
+  </div>
+
+       <div class="powered_by"><a href="http://getsatisfaction.com/"><img alt="Favicon" src="http://www.getsatisfaction.com/favicon.gif" style="vertical-align: middle;" /></a> <a href="http://getsatisfaction.com/">Service and support by Get Satisfaction</a></div>
+    </div>
+  </div>
+</div>
+<!-- End Satisfaction topic list widget -->
+
+
+<div class="sidebar-item">
+<h3>Upcoming Events</h3>
+<div class="sidebar-item-content">
+
+<p><a href="http://www.oreillynet.com/pub/e/1704">Dux Raymond Sy at Share10 AU: SharePoint2010 Australia</a><br />
+Nov&nbsp;29, 2010<br />
+Sofitel Sydney Wentworth<br />Sydney, Australia</p><p><a href="http://www.oreillynet.com/pub/e/1786">Webcast: Paul's Python Pearls</a><br />
+Dec&nbsp;1, 2010<br />
+</p><p><a href="http://www.oreillynet.com/pub/e/1789">Mobilize Your Organization: Digital Media Go Mainstream in Support of Corporate Functions</a><br />
+Dec&nbsp;1, 2010<br />
+<a href="http://www.conferenceboard.net/webcasts/webcastdetail.cfm?webcastid=2447">Online</a></p>
+
+<p class="more"><a href="http://events.oreilly.com">More Events</a></p>
+</div>
+</div>
+
+
+</div><!-- /#contentright -->
+
+</div><!--  /#content  -->
+
+<!-- navbar and footer -->
+
+<div id="netnav" class="noindex">
+<h3>Popular Topics</h3>
+<!-- please don't add to this template - used to include components in other CS installs -->
+<style type="text/css">
+#popular a{
+text-decoration: none;
+color: #990000;
+}
+#popular {
+padding-top:8px;
+}
+
+#search #topics td a {
+font-size:10.4px;
+line-height:14px;
+}
+</style>
+
+<table id="popular" cellpadding="0" cellpadding="0">
+<tr>
+<td style="padding-right:12px;"><a href="http://oreilly.com/javascript/index.html">JavaScript</a></td>
+<td><a href="http://oreilly.com/iphone/index.html">iPhone</a></td>
+</tr>
+<tr>
+<td style="padding-right:12px;"><a href="http://oreilly.com/android/index.html">Android</a></td>
+<td><a href="http://oreilly.com/python/index.html">Python</a></td>
+</tr>
+<tr>
+<td style="padding-right:12px;"><a href="http://oreilly.com/css-html/index.html">HTML5 &amp; CSS</a></td>
+<td><a href="http://headfirstlabs.com/">Head First</a></td>
+</tr>
+<tr>
+<td style="padding-right:12px;"><a href="http://oreilly.com/jquery/index.html">jQuery</a></td>
+<td><a href="http://oreilly.com/java/index.html">Java</a></td>
+</tr>
+<tr>
+<td style="padding-right:12px;"><a href="http://oreilly.com/ipad/index.html">iPad</a></td>
+<td><a href="http://oreilly.com/php/index.html">PHP</a></td>
+</tr>
+<tr>
+<td style="padding-right:12px;"><a href="http://oreilly.com/perl/index.html">Perl</a></td>
+<td><a href="http://oreilly.com/linux/index.html">Linux</a></td>
+</tr>
+</table>
+
+
+
+
+<!-- sidebar topics nav -->
+<!-- please don't add to this template - used to include components in other CS installs -->
+<h3>Browse Books & Videos</h3>
+<ul>
+<li><a href="#" onclick="toggleSheet('mac'); return true" id="macButton" class="rollup">Apple &amp; Mac</a>
+<ul id="mac">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/imovie" class="showtopic"> 
+
+iMovie &amp; iDVD</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/iphone" class="showtopic"> 
+
+iPhone</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/ipod" class="showtopic"> 
+
+iPod & iPod Touch</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/mac-administration" class="showtopic"> 
+
+Mac Administration</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/macoffice" class="showtopic"> 
+
+Mac for Office</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/mac" class="showtopic"> 
+
+Mac OS X</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('business'); return true" id="businessButton" class="rollup">Business &amp; Culture</a>
+<ul id="business">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/business" class="showtopic"> 
+
+Business</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/culture" class="showtopic"> 
+
+Digital Culture</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/finance" class="showtopic"> 
+
+Personal Finance</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/projectmanagement" class="showtopic"> 
+
+Project &amp; Career Management</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/socialmedia" class="showtopic"> 
+
+Social Media</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('training'); return false" id="trainingButton" class="rollup">Certification &amp; Training</a>
+<ul id="training">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/mcad" class="showtopic"> 
+
+MCAD/MCSD Training</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/mcdba" class="showtopic"> 
+
+MCDBA</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/mcsa" class="showtopic"> 
+
+MCSA/MCSE Training</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/networkplus" class="showtopic"> 
+
+Network+</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/sqlserver" class="showtopic"> 
+
+SQL Server</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('databases'); return false" id="databasesButton" class="rollup">Databases</a>
+<ul id="databases">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/access" class="showtopic"> 
+
+Access</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/theory" class="showtopic"> 
+
+Database Design &amp; Analysis</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/mysql" class="showtopic"> 
+
+MySQL</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/oracle" class="showtopic"> 
+
+Oracle</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/otherdatabases" class="showtopic"> 
+
+Other Databases</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/sql" class="showtopic"> 
+
+SQL</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/sqlserver" class="showtopic"> 
+
+SQL Server</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('design'); return false" id="designButton" class="rollup">Design &amp; Graphics</a>
+<ul id="design">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/adobecs3" class="showtopic"> 
+
+Adobe CS3</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/adobecs4" class="showtopic"> 
+
+Adobe CS4</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/adobecs5" class="showtopic"> 
+
+Adobe CS5</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/flash" class="showtopic"> 
+
+Flash &amp; Actionscript</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/graphics" class="showtopic"> 
+
+Illustration &amp; Graphics</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/photomanipulation" class="showtopic"> 
+
+Photoshop &amp; Photomanipulation</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/printdesign" class="showtopic"> 
+
+Print Design</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/webdesign" class="showtopic"> 
+
+Web Design</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('audiovideo'); return false" id="audiovideoButton" class="rollup">Digital Audio &amp; Video</a>
+<ul id="audiovideo">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/digitalaudio" class="showtopic"> 
+
+Digital Audio</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/digitalvideo" class="showtopic"> 
+
+Digital Video</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('photography'); return false" id="photographyButton" class="rollup">Digital Photography</a>
+<ul id="photography">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/adobecs3" class="showtopic"> 
+
+Adobe CS3</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/adobecs4" class="showtopic"> 
+
+Adobe CS4</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/adobecs5" class="showtopic"> 
+
+Adobe CS5</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/digiphoto" class="showtopic"> 
+
+Digital Photography</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/photomanipulation" class="showtopic"> 
+
+Photoshop &amp; Photomanipulation</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('hardware'); return false" id="hardwareButton" class="rollup">Hardware</a>
+<ul id="hardware">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/devices" class="showtopic"> 
+
+Devices &amp; Peripherals</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/hardwarehacking" class="showtopic"> 
+
+Hacks &amp; Modifications</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/pchardware" class="showtopic"> 
+
+PC Hardware</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('homeoffice'); return false" id="homeofficeButton" class="rollup">Home &amp; Office</a>
+<ul id="homeoffice">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/cloudapps" class="showtopic"> 
+
+Cloud Apps</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/security" class="showtopic"> 
+
+Computer Security &amp; Privacy</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/games" class="showtopic"> 
+
+Games</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/homeentertainment" class="showtopic"> 
+
+Home Entertainment</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/homenetworking" class="showtopic"> 
+
+Home Networking</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/macoffice" class="showtopic"> 
+
+Mac for Office</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/mac" class="showtopic"> 
+
+Mac OS X</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/macprograms" class="showtopic"> 
+
+Macintosh Programs</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/microsoftoffice" class="showtopic"> 
+
+Microsoft Office</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/pchardware" class="showtopic"> 
+
+PC Hardware</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/finance" class="showtopic"> 
+
+Personal Finance</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/windows" class="showtopic"> 
+
+Windows 2000 &amp; earlier</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/windows7" class="showtopic"> 
+
+Windows 7</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/windowsprograms" class="showtopic"> 
+
+Windows Programs</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/windowsvista" class="showtopic"> 
+
+Windows Vista</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/windowsxp" class="showtopic"> 
+
+Windows XP</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('microsoft'); return false" id="microsoftButton" class="rollup">Microsoft</a>
+<ul id="microsoft">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/msp-dotnet" class="showtopic"> 
+
+.NET &amp; Windows Programming</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/msp-business-solutions" class="showtopic"> 
+
+Business Solutions</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/msp-certification-training" class="showtopic"> 
+
+Certification &amp; Training</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/msp-microsoftoffice" class="showtopic"> 
+
+Microsoft Office</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/msp-servers" class="showtopic"> 
+
+Servers</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/msp-software-development" class="showtopic"> 
+
+Software Development</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/msp-web-design" class="showtopic"> 
+
+Web Design &amp; Development</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/msp-windows" class="showtopic"> 
+
+Windows</a> </li>
+
+<li><a href="http://oreilly.com/pub/topic/msp-additional" class="showtopic">Additional Topics</a></li>
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('mobile'); return false" id="mobileButton" class="rollup">Mobile &amp; Smart Devices</a>
+<ul id="mobile">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/android" class="showtopic"> 
+
+Android</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/iphone" class="showtopic"> 
+
+iPhone</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/othersmartdevices" class="showtopic"> 
+
+Other Smart Devices</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/wirelessprogramming" class="showtopic"> 
+
+Wireless Programming</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('sysadmin'); return false" id="sysadminButton" class="rollup">Networking &amp; Sys Admin</a>
+<ul id="sysadmin">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/apache" class="showtopic"> 
+
+Apache</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/certification" class="showtopic"> 
+
+Certification</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/cisco" class="showtopic"> 
+
+Cisco &amp; other Routers</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/email" class="showtopic"> 
+
+Email</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/homenetworking" class="showtopic"> 
+
+Home Networking</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/protocols" class="showtopic"> 
+
+Protocols</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/serveradmin" class="showtopic"> 
+
+Server Administration</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/serversecurity" class="showtopic"> 
+
+Server Security</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/spam" class="showtopic"> 
+
+Spam</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/telephony" class="showtopic"> 
+
+Telephony</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/wireless" class="showtopic"> 
+
+Wireless</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('os'); return false" id="osButton" class="rollup">Operating Systems</a>
+<ul id="os">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/linux" class="showtopic"> 
+
+Linux/Unix</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/mac" class="showtopic"> 
+
+Mac OS X</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/windows" class="showtopic"> 
+
+Windows 2000 &amp; earlier</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/windows7" class="showtopic"> 
+
+Windows 7</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/windowsvista" class="showtopic"> 
+
+Windows Vista</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/windowsxp" class="showtopic"> 
+
+Windows XP</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('programming'); return false" id="programmingButton" class="rollup">Programming</a>
+<ul id="programming">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/dotnet" class="showtopic"> 
+
+.NET &amp; Windows Programming</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/ajax" class="showtopic"> 
+
+Ajax</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/csharp" class="showtopic"> 
+
+C#</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/cprog" class="showtopic"> 
+
+C/C++</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/certification" class="showtopic"> 
+
+Certification</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/games" class="showtopic"> 
+
+Games</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/java" class="showtopic"> 
+
+Java</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/otherprogramming" class="showtopic"> 
+
+Other Programming</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/perl" class="showtopic"> 
+
+Perl</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/php" class="showtopic"> 
+
+PHP</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/projectmanagement" class="showtopic"> 
+
+Project &amp; Career Management</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/python" class="showtopic"> 
+
+Python</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/ruby" class="showtopic"> 
+
+Ruby</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/secureprogramming" class="showtopic"> 
+
+Secure Programming</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/vb" class="showtopic"> 
+
+Visual Basic</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/webservices" class="showtopic"> 
+
+Web Services</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/wirelessprogramming" class="showtopic"> 
+
+Wireless Programming</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/xml" class="showtopic"> 
+
+XML</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('science'); return false" id="scienceButton" class="rollup">Science &amp; Math</a>
+<ul id="science">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/bioinformatics" class="showtopic"> 
+
+Bioinformatics</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/math" class="showtopic"> 
+
+Math</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/science" class="showtopic"> 
+
+Science</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('security'); return false" id="securityButton" class="rollup">Security</a>
+<ul id="security">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/security" class="showtopic"> 
+
+Computer Security &amp; Privacy</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/secureprogramming" class="showtopic"> 
+
+Secure Programming</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/serversecurity" class="showtopic"> 
+
+Server Security</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/spam" class="showtopic"> 
+
+Spam</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('softwareengineering'); return false" id="softwareengineeringButton" class="rollup">Software Engineering</a>
+<ul id="softwareengineering">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/designpatterns" class="showtopic"> 
+
+Design Patterns</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/enterprisedev" class="showtopic"> 
+
+Enterprise Development</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/projectmanagement" class="showtopic"> 
+
+Project &amp; Career Management</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/secureprogramming" class="showtopic"> 
+
+Secure Programming</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/testing" class="showtopic"> 
+
+Testing</a> </li>
+
+</ul>
+</li>
+<li><a href="#" onclick="toggleSheet('web'); return false" id="webButton" class="rollup">Web Development</a>
+<ul id="web">
+<li>
+
+ <a href="http://oreilly.com/pub/topic/ajax" class="showtopic"> 
+
+Ajax</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/flash" class="showtopic"> 
+
+Flash &amp; Actionscript</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/mapping" class="showtopic"> 
+
+Mapping</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/webapplications" class="showtopic"> 
+
+Web Applications</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/browsers" class="showtopic"> 
+
+Web Browsers</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/webdesign" class="showtopic"> 
+
+Web Design</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/webdev" class="showtopic"> 
+
+Web Development</a> </li>
+<li>
+
+ <a href="http://oreilly.com/pub/topic/webservices" class="showtopic"> 
+
+Web Services</a> </li>
+
+</ul>
+</li>
+</ul>
+
+
+
+
+<!--
+<div id="netnav2">
+-->
+
+<h3>News Topics</h3>
+<!-- please don't add to this template - used to include components in other CS installs -->
+<!-- needs another script or manual intervention to generate the tagfile. make sure this is cronned or otherwise being run to update the list of tags on a regular basis -->
+
+<div class="cdiv">
+<p class="cbox">
+<a href="http://oreilly.com/archivetags.csp?tag=apple" style="font-size:12px;">apple</a>
+<a href="http://oreilly.com/archivetags.csp?tag=blogs" style="font-size:16px;">blogs</a>
+<a href="http://oreilly.com/archivetags.csp?tag=cloudcomputing" style="font-size:15px;">cloudcomputing</a>
+<a href="http://oreilly.com/archivetags.csp?tag=ebooks" style="font-size:13px;">ebooks</a>
+<a href="http://oreilly.com/archivetags.csp?tag=economy" style="font-size:13px;">economy</a>
+<a href="http://oreilly.com/archivetags.csp?tag=facebook" style="font-size:11px;">facebook</a>
+<a href="http://oreilly.com/archivetags.csp?tag=flash" style="font-size:11px;">flash</a>
+<a href="http://oreilly.com/archivetags.csp?tag=flex" style="font-size:11px;">flex</a>
+<a href="http://oreilly.com/archivetags.csp?tag=geo" style="font-size:14px;">geo</a>
+<a href="http://oreilly.com/archivetags.csp?tag=google" style="font-size:17px;">google</a>
+<a href="http://oreilly.com/archivetags.csp?tag=gov20" style="font-size:14px;">gov20</a>
+<a href="http://oreilly.com/archivetags.csp?tag=government" style="font-size:14px;">government</a>
+<a href="http://oreilly.com/archivetags.csp?tag=iphone" style="font-size:19px;">iphone</a>
+<a href="http://oreilly.com/archivetags.csp?tag=javascript" style="font-size:11px;">javascript</a>
+<a href="http://oreilly.com/archivetags.csp?tag=linux" style="font-size:14px;">linux</a>
+<a href="http://oreilly.com/archivetags.csp?tag=microsoft" style="font-size:12px;">microsoft</a>
+<a href="http://oreilly.com/archivetags.csp?tag=mobile" style="font-size:15px;">mobile</a>
+<a href="http://oreilly.com/archivetags.csp?tag=ooxml" style="font-size:11px;">ooxml</a>
+<a href="http://oreilly.com/archivetags.csp?tag=opensource" style="font-size:19px;">opensource</a>
+<a href="http://oreilly.com/archivetags.csp?tag=oscon" style="font-size:11px;">oscon</a>
+<a href="http://oreilly.com/archivetags.csp?tag=privacy" style="font-size:11px;">privacy</a>
+<a href="http://oreilly.com/archivetags.csp?tag=programming" style="font-size:13px;">programming</a>
+<a href="http://oreilly.com/archivetags.csp?tag=publishing" style="font-size:11px;">publishing</a>
+<a href="http://oreilly.com/archivetags.csp?tag=python" style="font-size:14px;">python</a>
+<a href="http://oreilly.com/archivetags.csp?tag=security" style="font-size:16px;">security</a>
+<a href="http://oreilly.com/archivetags.csp?tag=socialnetworking" style="font-size:12px;">socialnetworking</a>
+<a href="http://oreilly.com/archivetags.csp?tag=standards" style="font-size:13px;">standards</a>
+<a href="http://oreilly.com/archivetags.csp?tag=twitter" style="font-size:16px;">twitter</a>
+<a href="http://oreilly.com/archivetags.csp?tag=web20" style="font-size:18px;">web20</a>
+<a href="http://oreilly.com/archivetags.csp?tag=xml" style="font-size:24px;">xml</a>
+</p>
+</div>
+
+
+
+
+
+
+<!-- csinclude url="http://news.oreilly.com/cs_news_tagcloud.html" -->
+
+<!--
+<div id="netnav3">
+-->
+<h3>International Sites</h3>
+<p><a href="http://oreilly.com.cn/"><img src="/images/oreilly/flags/new/china2.gif" alt="O'Reilly China" height="16" width="23" style="border: 1px solid black;" /></a> <a href="http://www.oreilly.de/"><img src="/images/oreilly/flags/new/germany2.gif" alt="O'Reilly Germany" height="16" width="23" style="border: 1px solid black;" /></a> <a href="http://www.oreilly.co.jp/"><img src="/images/oreilly/flags/new/japan2.gif" alt="O'Reilly Japan" height="16" width="23" style="border: 1px solid black;" /></a> </p>
+</div>
+
+<div class="clear"></div>
+
+<div style="width:16em;
+    float:left;
+    padding:1em 0 0 2em;">
+<h3 style="font-weight:normal;
+    font-size: 11px;
+    margin:1em 0 0 0;
+    padding: 4px 0;
+    border-bottom:1px solid #666;
+    text-transform:uppercase;
+    width: 178px;">What is O'Reilly Media?</h3>
+
+<h1 style="font-size: 11px; line-height: 14px; font-weight: normal;"><strong>Technology Books, Tech Conferences, IT Courses &amp; News</strong></h1>
+
+<span style="font-size: 11px; line-height: 14px; font-weight: normal;">O'Reilly spreads the knowledge of innovators through its technology books, online services, magazines, research, and tech conferences. Since 1978, O'Reilly has been a chronicler and catalyst of leading-edge development, homing in on the technology trends that really matter and galvanizing their adoption by amplifying "faint signals" from the alpha geeks who are creating the future. An active participant in the technology community, O'Reilly has a long history of advocacy, meme-making, and evangelism."
+</span>
+</div>
+
+<div id="footer" class="noindex">
+
+<table border="0" style="padding-top:20px; padding-bottom:20px;">
+
+<tbody>
+
+
+<tr><td align="left" width="25%" valign="top" style="padding-left: 20px; padding-right: 20px;">
+<a href="http://oreilly.com/"><img height="35" border="0" width="155" src="http://cdn.oreilly.com/images/standard/oreilly-logo-footer.gif" alt="O'Reilly Media"/></a>
+<br/><br/>
+&copy;2010, O'Reilly Media, Inc.<br/>(707) 827-7000 / (800) 998-9938<br/> All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners. </td>
+
+<td valign="top" class="footercol1">
+<ul>
+<li><a href="http://oreilly.com/about/"><strong>About O'Reilly</strong></a></li>
+<li><a href="http://oreilly.com/academic/">Academic Solutions</a></li>
+<li><a href="http://oreilly.com/contact.html">Contacts</a></li>
+<li><a href="http://oreilly.com/oreilly/cs/">Customer Service</a></li>
+<li><a href="http://oreilly.com/jobs/">Careers</a></li>
+<li><a href="http://press.oreilly.com/">Press Room</a></li>
+<li><a href="http://oreilly.com/oreilly/privacy.csp">Privacy Policy</a></li>
+<li><a href="http://oreilly.com/terms/">Terms of Service</a></li>
+<li><a href="http://oreilly.com/oreilly/author/intro.csp">Writing for O'Reilly</a></li>
+</ul>
+</td>
+
+<td valign="top" class="footercol2">
+<ul>
+<li><a href="http://oreilly.com/community/"><strong>Community</strong></a></li>
+<li><a href="http://oreilly.com/authors/">Authors</a></li>
+<li><a href="http://forums.oreilly.com/">Forums</a></li>
+<li><a href="https://members.oreilly.com/">Membership</a></li>
+<li><a href="http://elists.oreilly.com/">Newsletters</a></li>
+<li><a href="http://oreilly.com/feeds/">RSS Feeds</a></li>
+<li><a href="http://ug.oreilly.com/">User Groups</a></li>
+</ul>
+</td>
+
+<td valign="top" class="footercol3">
+<ul>
+<li><strong>More O'Reilly Sites</strong></li>
+<li><a href="http://igniteshow.com/">igniteshow.com</a></li>
+<li><a href="http://makerfaire.com/">makerfaire.com</a></li>
+<li><a href="http://makezine.com/">makezine.com</a></li>
+<li><a href="http://craftzine.com">craftzine.com</a></li>
+<li><a href="http://labs.oreilly.com">labs.oreilly.com</a></li>
+</ul>
+
+<ul>
+<li><strong>Partner Sites</strong></li>
+<li><a href="http://insideria.com">InsideRIA</a></li>
+<li><a href="http://www.forbes.com/oreillyinsights/">O'Reilly Insights on Forbes.com</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+</div>
+
+<!-- autocomplete scripts -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.6.0/build/utilities/utilities.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.6.0/build/datasource/datasource-min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.6.0/build/autocomplete/autocomplete-min.js"></script>
+<script type="text/javascript" src="http://content.atomz.com/sp1003bcf0/publish/autocomplete_data.js?sp_js_cache_ver=3"></script>
+
+<!-- MyBuys Page Initialization -->
+<script type="text/javascript">
+mybuys.initPage();
+</script>
+<!-- End MyBuys Page Initialization -->
+
+</div><!-- /#end content-09 -->
+
+<!-- Satisfaction Widget JS -->
+<script src="http://getsatisfaction.com/oreilly/widgets/javascripts/07fc3d1884/widgets.js" type="text/javascript"></script>
+<!--script src="http://getsatisfaction.com/oreilly/topics.widget?callback=gsfnTopicsCallback&amp;&amp;limit=3;" type="text/javascript"></script-->
+<!-- End Satisfaction Widget JS -->
+
+</div><!--  /#page  -->
+
+<!-- sc/2109 -->
+<script type="text/javascript">
+var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=1632&domain=oreilly.com";
+var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
+document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"))
+</script>
+<!-- #sc/2109 --></body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
