@@ -22,6 +22,6 @@ class Gmail(object):
         server.close()
 
 if __name__ == '__main__':
-    gmail = Gmail("wwq0327", "97019572w")
+    gmail = Gmail("wwq0327", "xxx")
     gmail.send("wwq0327@gmail.com", "hello","hello,world!")
 
